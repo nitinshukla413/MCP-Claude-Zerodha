@@ -1,0 +1,12 @@
+{
+    "mcpServers":{
+        "trade":{
+            "command": "/Users/nitin.shukla/Desktop/zerodha-trade/index.js",
+            "args": [],
+            "cwd": "/Users/nitin.shukla/Desktop/zerodha-trade",
+            "env": {
+                "NODE_ENV": "development"
+            }
+        }
+    }
+}
